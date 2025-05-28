@@ -20,8 +20,8 @@ Somos uma empresa especializada em soluções digitais voltadas para os setores 
 
 ## 💡 Tecnologias e Práticas
 
-- **Frontend**: React, React Native, Angular
-- **Backend**: Node.js, Spring Boot, PHP/Laravel
+- **Frontend**: React, React Native
+- **Backend**: PHP/Laravel
 - **Infraestrutura**: Docker, CI/CD, AWS, Azure, Firebase
 - **Segurança**: Criptografia, controle de acesso, boas práticas DevSecOps
 - **Metodologias**: Ágil (Scrum/Kanban), testes automatizados, versionamento Git
